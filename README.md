@@ -150,34 +150,6 @@ Both **Ollama** and the chatbot run in Docker. Access the chatbot at **[http://l
 5. **Query Expansion (HyDE)**: Generates hypothetical answers to **expand** your query for better recall.  
 6. **Chat Memory History Integration**: Maintains context by referencing previous user messages.  
 7. **DeepSeek-7B Generation**: Produces the final answer based on top-ranked chunks.
+it**](https://www.reddit.com/user/akhilpanja/)! 🚀💡
 
 ---
-
-## **🔹 Why This Upgrade?**
-
-| Feature                       | Previous Version            | New Version                        |
-|------------------------------|-----------------------------|------------------------------------|
-| **Retrieval Method**         | Hybrid (BM25 + FAISS)      | Hybrid + **GraphRAG**             |
-| **Contextual Understanding** | Limited                    | **Enhanced with Knowledge Graphs** |
-| **User Interface**           | Standard                   | **Customizable + Themed Sidebar**  |
-| **Chat History**             | Not Utilized               | **Full Memory Integration**        |
-| **Error Handling**           | Basic                      | **Improved with Bug Fixes**        |
-
-
----
-
-## **📌 Contributing**
-
-- **Fork** this repo, submit **pull requests**, or open **issues** for new features or bug fixes.  
-- We love hearing community suggestions on how to extend or improve the chatbot.
-
----
-
-### **🔗 Connect & Share Your Thoughts!**
-
-Got feedback or suggestions? Let’s discuss on [**Reddit**](https://www.reddit.com/user/akhilpanja/)! 🚀💡
-
----
-
-**Enjoy building knowledge graphs, maintaining conversation memory, and harnessing powerful local LLM inference—all from your own machine.**  
-_The future of retrieval-augmented AI is here—no internet required!_
